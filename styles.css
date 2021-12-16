@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Oswald:wght@300;500&display=swap'); 
+
+
+ body{
+    font-family: 'EB Garamond', serif;
+font-family: 'Oswald', sans-serif;
+background-color: aquamarine;
+text-align: center;
+}
+#detail{
+  font-size: larger;
+  margin: auto;
+  padding-bottom: 1rem;
+
+}
+#bill-amount{
+  text-align: center;
+  margin: auto;
+  width: 30%;
+  padding: 0.5rem;
+  display: block;
+
+}
+#cash-given{
+  text-align: center;
+  margin: auto;
+  width: 30%;
+  padding: 0.5rem;
+  display: block;
+
+
+}
+#check-button{
+padding: 0.5rem;
+font-size: large;
+font-weight: bold;
+border-radius: 0.5rem;
+margin-top: 1rem;
+margin-bottom: 1rem;
+cursor: pointer;
+}
+#change-table{
+  text-align: center;
+  margin: auto;
+  box-sizing: border-box;
+  border-color: solid black;
+  padding: 1rem;
+  font-size: larger;
+  border-collapse: collapse;
+  
+
+}
+.table-d-2{
+  padding: 1rem;
+  border-collapse: collapse;
+
+}
+.table-d-1{
+  padding: 1rem;
+}
